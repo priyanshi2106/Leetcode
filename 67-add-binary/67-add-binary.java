@@ -6,7 +6,7 @@ class Solution {
         int carry = 0;
         while(i>=0 || j>=0){
             int sum = carry;  //because carry will always be added to the sum
-            if(i>=0)
+            if(i>=0)  //if one of the strings ends before another
                 sum += a.charAt(i)-'0'; //converting to integer
             if(j>=0)
                 sum += b.charAt(j)-'0'; //converting to integer
