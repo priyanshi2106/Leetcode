@@ -22,16 +22,21 @@ class Solution {
 //         }
 //         return ans; 
         
-         StringBuilder sb = new StringBuilder();
-    int sbLength = 0;
-    for(char character : s.toCharArray()) {
-      if (sbLength != 0 && character == sb.charAt(sbLength - 1))
-        sb.deleteCharAt(sbLength-- - 1);
-      else {
-        sb.append(character);
-        sbLength++;
-      }
-    }
-    return sb.toString();
+        
+        //faster:
+        
+       StringBuilder sb = new StringBuilder();
+        int length = 0;
+        for(char c: s.toCharArray()){
+            if(length != 0 && sb.charAt(length-1) == c){
+                sb.deleteCharAt(length-1);
+                length--;
+            }
+            else{
+                sb.append(c);
+                length++;
+            }
+        }
+        return sb.toString();
     }
 }
