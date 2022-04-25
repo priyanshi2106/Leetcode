@@ -18,6 +18,9 @@ class Solution {
       return helpers(nums, 0,nums.length-1);
         
     }
+    // Time complexity : O(n)
+    // Space complexity : O(log n) recursion stack
+    
     public TreeNode helpers(int[] nums, int left, int right){
         if(left > right){
             return null;
