@@ -20,7 +20,8 @@ class Solution {
         
         // check the ammount of disparities between the input array and the bucket
         int count = 0, index = 0;
-        for(int i = 1; i <= 100; i++) {
+        for(int i = 1; i <= 100
+            ; i++) {
             while(bucket[i] > 0) {
                 if(i != heights[index++]) count++;
                 bucket[i]--;
