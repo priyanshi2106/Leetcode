@@ -13,42 +13,19 @@ class Solution {
         // }
         // return count;
         
-//         int[] bucket = new int[101];
-//         for(int number : heights) {
-//             bucket[number]++;
-//         }
-        
-//         // check the ammount of disparities between the input array and the bucket
-//         int count = 0, index = 0;
-//         for(int i = 1; i <= 100
-//             ; i++) {
-//             while(bucket[i] > 0) {
-//                 if(i != heights[index++]) count++;
-//                 bucket[i]--;
-//             }
-//         }
-//         return count;
-        int[] heightToFreq = new int[101];
-        
-        for (int height : heights) {
-            heightToFreq[height]++;
+        int[] bucket = new int[101];
+        for(int number : heights) {
+            bucket[number]++;
         }
         
-        int result = 0;
-        int curHeight = 0;
-        
-        for (int i = 0; i < heights.length; i++) {
-            while (heightToFreq[curHeight] == 0) {
-                curHeight++;
+        // check the ammount of disparities between the input array and the bucket
+        int count = 0, index = 0;
+        for(int i = 1; i <= 100 ; i++) {
+            while(bucket[i] > 0) {
+                if(i != heights[index++]) count++;
+                bucket[i]--;
             }
-            
-            if (curHeight != heights[i]) {
-                result++;
-            }
-            heightToFreq[curHeight]--;
         }
-        
-        return result;
-
+        return count;
     }
 }
