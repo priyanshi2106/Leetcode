@@ -3,7 +3,7 @@ class Solution {
     //quicksort
         int i = 0, j = nums.length-1;
         while(i<j){
-            // if(nums[i]%2 == 0 && nums[j]%2 == 0){
+            // if(nums[i]%2 == 0 && nums[j]%2 != 0){
             //     i++;
             //     j--;
             // }
