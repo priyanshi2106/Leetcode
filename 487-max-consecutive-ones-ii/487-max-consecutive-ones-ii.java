@@ -1,5 +1,6 @@
 class Solution {
     public int findMaxConsecutiveOnes(int[] nums) {
+       //Time limit exceeds
 //         int sum = 0;
 //         int max = 0;
 //         //int count = 0;
@@ -23,20 +24,26 @@ class Solution {
 //         }
 //         return max;
         
-        //Solution for follow up question
-        int start = 0,end = 0;
-        int zeroIndex= -1;
-      int result = 0;
-      while (end < nums.length) {
-          if (nums[end] == 0) {
-              start = zeroIndex + 1;
-              zeroIndex = end;
-          }
+       int max = 0;
+        int left = 0;
+        int right = 0;
+        int numOfZeroes = 0;
+        while(right < nums.length){
             
-          result = Math.max(result, end - start + 1);
-          end++;
-      }
-  
-      return result;
+            if(nums[right] == 0){
+                numOfZeroes++;
+            }
+            //when we encounter more than 1 zero
+            while(numOfZeroes == 2){
+               
+                if(nums[left] == 0){
+                    numOfZeroes--;
+                }
+                 left++;
+            }
+            max = Math.max(max,right-left+1);
+            right++;
+        }
+        return max;
     }
 }
