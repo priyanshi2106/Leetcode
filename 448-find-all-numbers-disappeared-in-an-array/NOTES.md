@@ -1,1 +1,1 @@
-​
+In second solution we will consider the element at each index as index of that particular value. And we will negate this index as we go through the array. After looping through the array again if we find a value which is > 0 then that means that index or number was not present.
