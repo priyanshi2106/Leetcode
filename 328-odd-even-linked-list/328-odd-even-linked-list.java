@@ -18,9 +18,18 @@ class Solution {
         ListNode evenHead = even;
         
         while(even != null && even.next != null){
-            odd.next = even.next;
+            // odd.next = even.next;
+            // odd = odd.next;
+            // even.next = odd.next;
+            //even = even.next;
+            
+             odd.next = odd.next.next;
+            
+            // Put even to the even list
+            even.next = even.next.next;
+            
+            // Move the pointer to the next odd/even
             odd = odd.next;
-            even.next = odd.next;
             even = even.next;
         }
         //connect both the linked list
