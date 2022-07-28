@@ -1,23 +1,20 @@
 class Solution {
     public int deleteAndEarn(int[] nums) {
-        //Declare a hashmap that stores the max points we can get from each num in nums[]
-        HashMap<Integer, Integer> points = new HashMap<>();
-        int MaxNumber = 0;
-        //computing the points
-        for(int num : nums){
-            points.put(num, points.getOrDefault(num,0) + num);
-            //Calculate max points side by side
-            MaxNumber = Math.max(MaxNumber, num);
+        //T: O(n)
+        //S: O(n)
+        //count the freq
+        int freq[] = new int[10002];
+        int dp[] = new int[10002];
+        
+        for(int i = 0; i < nums.length; i++){
+            freq[nums[i]]++;
         }
         
-        //Base Case
-        int maxPoints[] = new int[MaxNumber+1];
-        maxPoints[1] = points.getOrDefault(1, 0);
-        
-        for(int i = 2; i < maxPoints.length; i++){
-            int curr = points.getOrDefault(i, 0);
-            maxPoints[i] = Math.max(maxPoints[i-1], maxPoints[i-2] + curr);
+        dp[0] = 0;
+        dp[1] = 1 * freq[1];
+        for(int i = 2; i < 10002; i++){
+            dp[i] = Math.max(dp[i-1], dp[i-2] + i * freq[i]);
         }
-        return maxPoints[MaxNumber];
+        return dp[dp.length-1];
     }
-}
+} 
