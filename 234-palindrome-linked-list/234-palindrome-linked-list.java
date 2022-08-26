@@ -10,14 +10,14 @@
  */
 class Solution {
     public boolean isPalindrome(ListNode head) {
-        if(head == null){
-            return false;
-        }
-        //first find the end of first half 
-        ListNode firstHalfEnd = endOfFirsthalf(head);
-        ListNode startOfSecHalf = reverse(firstHalfEnd.next);
+       if(head == null){
+           return false;
+       }
+        //First we take out the end of the first half of the linked list
+        ListNode endOfFirstHalf = end(head);
+        ListNode startOfSecHalf = reverse(endOfFirstHalf.next);
         
-        //check if its palindrome or not
+        //now check for palindrome
         ListNode p1 = head;
         ListNode p2 = startOfSecHalf;
         boolean res = true;
@@ -28,13 +28,13 @@ class Solution {
             p1 = p1.next;
             p2 = p2.next;
         }
-        firstHalfEnd.next = reverse(startOfSecHalf);
+        endOfFirstHalf.next = reverse(startOfSecHalf);
         return res;
     }
     public ListNode reverse(ListNode head){
         ListNode prev = null;
         ListNode curr = head;
-        ListNode nextNode = null;
+        ListNode nextNode = null; // to store the reference of the next node of curr
         while(curr != null){
             nextNode = curr.next;
             curr.next = prev;
@@ -43,13 +43,12 @@ class Solution {
         }
         return prev;
     }
-    
-    public ListNode endOfFirsthalf(ListNode head){
+    public ListNode end(ListNode head){
         ListNode fast = head;
         ListNode slow = head;
         while(fast.next != null && fast.next.next != null){
-            fast = fast.next.next;
             slow = slow.next;
+            fast = fast.next.next;
         }
         return slow;
     }
