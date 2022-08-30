@@ -1,5 +1,9 @@
-ListNode slow = head, fast = head;
-while(fast != null && fast.next != null){
+//Time : O(n)
+//Space: O(1) only using 2 nodes
+public boolean hasCycle(ListNode head) {
+ListNode fast = head;
+ListNode slow = head;
+while(fast != null && fast.next != null ){
 if(fast.next == slow){
 return true;
 }
