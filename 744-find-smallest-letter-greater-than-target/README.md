@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/find-smallest-letter-greater-than-target/">744. Find Smallest Letter Greater Than Target</a></h2><h3>Easy</h3><hr><div><p>Given a characters array <code>letters</code> that is sorted in <strong>non-decreasing</strong> order and a character <code>target</code>, return <em>the smallest character in the array that is larger than </em><code>target</code>.</p>
+<h2><a href="https://leetcode.com/problems/find-smallest-letter-greater-than-target/solution/">744. Find Smallest Letter Greater Than Target</a></h2><h3>Easy</h3><hr><div><p>Given a characters array <code>letters</code> that is sorted in <strong>non-decreasing</strong> order and a character <code>target</code>, return <em>the smallest character in the array that is larger than </em><code>target</code>.</p>
 
 <p><strong>Note</strong> that the letters wrap around.</p>
 
