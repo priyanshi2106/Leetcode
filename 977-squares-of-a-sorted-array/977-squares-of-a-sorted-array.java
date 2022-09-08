@@ -5,8 +5,8 @@ class Solution {
             
 //         }
 //         Arrays.sort(nums);
-//         return nums;
-        int res[] = new int[nums.length];
+//      
+        int ans[] = new int[nums.length];
         int left = 0;
         int right = nums.length-1;
         for(int i = nums.length-1; i >= 0; i--){
@@ -19,8 +19,8 @@ class Solution {
                 sq = nums[left];
                 left++;
             }
-            res[i] = sq*sq;
+            ans[i] = sq*sq;
         }
-        return res;
+        return ans;
     }
 }
