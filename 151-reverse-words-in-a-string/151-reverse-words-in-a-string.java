@@ -18,7 +18,7 @@ class Solution {
         char a[] = s.toCharArray();
         int n = a.length;
         
-        //Step 1: Reverse the string
+        //Step 1: Reverse the array
         reverse(a, 0, n-1);
         
         //Step 2: Reverse each word
@@ -39,7 +39,7 @@ class Solution {
         int i = 0, j= 0;
         while(i < n){
             while(i < j || i < n && a[i] == ' '){
-                i++;                                  //Skip spaces
+                i++;              //Skip spaces //keeping track of starting position
             }
             while(j < i || j < n && a[j] != ' '){
                 j++;                        //This pointer takes care of non spaces
