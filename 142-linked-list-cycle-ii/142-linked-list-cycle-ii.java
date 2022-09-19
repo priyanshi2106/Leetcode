@@ -11,34 +11,34 @@
  */
 public class Solution {
     public ListNode detectCycle(ListNode head) {
-        if(head == null){
+        if(head == null ){
             return null;
         }
-        ListNode intersect = getIntersection(head);
-        if(intersect == null){
+        ListNode intersection = hasLoop(head);
+        if(intersection == null){
             return null;
         }
         ListNode pt = head;
-        ListNode pt2 = intersect;
+        ListNode pt2 = intersection;
         while(pt2 != pt){
             pt = pt.next;
             pt2 = pt2.next;
         }
         return pt;
-        
-        
     }
-    public ListNode getIntersection(ListNode head){
+    public ListNode hasLoop(ListNode head){
        
-        ListNode slow = head;
         ListNode fast = head;
+        ListNode slow = head;
+        int i = 0;
         while(fast != null && fast.next != null){
-             fast = fast.next.next;
             slow = slow.next;
+            fast = fast.next.next;
+            i++;
             if(fast == slow){
+                 
                 return slow;
             }
-           
         }
         return null;
     }
