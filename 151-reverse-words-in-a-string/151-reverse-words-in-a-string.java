@@ -36,15 +36,13 @@ class Solution {
         }
     }
     public void reverseWordss(char a[], int n){
-        int i = 0, j= 0;
-        while(i < n){
-            while(i < j || i < n && a[i] == ' '){
-                i++;              //Skip spaces //keeping track of starting position
-            }
-            while(j < i || j < n && a[j] != ' '){
-                j++;                        //This pointer takes care of non spaces
-            }
-            reverse(a, i, j-1);
+         int i = 0, j = 0;
+        while (j < n) {
+            while (i < n && a[i] == ' ') i++;
+            j = i;
+            while (j < n && a[j] != ' ') j++;
+            reverse(a, i, j - 1);
+            i = j++;
         }
     }
     
