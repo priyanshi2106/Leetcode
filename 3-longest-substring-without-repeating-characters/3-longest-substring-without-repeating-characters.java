@@ -1,5 +1,7 @@
 class Solution {
     public int lengthOfLongestSubstring(String s) {
+        //T: O(n)
+        //S: O(n) -> bcs worst case the substring is the whole original string                            itself
         int a_pointer = 0;
         int b_pointer = 0;
         int max = 0;
