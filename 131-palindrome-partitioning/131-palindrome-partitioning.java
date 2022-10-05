@@ -1,5 +1,7 @@
 class Solution {
     public List<List<String>> partition(String s) {
+        //T:O(N*2^N) 2^n to generate all substring and n time to check if the                            substring is a palinderome or not
+        //S: O(n) to store the recursion array
         List<List<String>> res = new ArrayList<>();
         if(s == null || s.length() == 0)
         {
