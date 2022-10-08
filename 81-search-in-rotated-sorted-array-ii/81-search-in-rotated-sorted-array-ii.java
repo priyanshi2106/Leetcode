@@ -26,6 +26,8 @@ class Solution {
                 }
             }
             else{
+                //If we got here, that means nums[i] == nums[mid] == nums[j], then shifting out
+                // remove duplicates
                 j--;
             }
         }
