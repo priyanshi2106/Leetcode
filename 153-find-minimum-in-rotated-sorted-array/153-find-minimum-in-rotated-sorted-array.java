@@ -1,5 +1,7 @@
 class Solution {
     public int findMin(int[] nums) {
+        //T: O(log n)
+        //S: O(1)
         int i = 0;
         int j = nums.length-1;
         int small = Integer.MAX_VALUE;
