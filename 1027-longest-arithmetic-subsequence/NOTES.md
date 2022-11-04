@@ -1,20 +1,7 @@
-dpublic int longestArithSeqLength(int[] A) {
-//minimum sequence is 2 because any two numbers can be a sequence for ex: 1,2 or 1,10 or 2,7 it is a sequence
-int res = 2, n = A.length;
-//define an array of hashmaps for a difference with previous numbers - hashmap key as difference, value as a counter
-HashMap<Integer, Integer>[] dp = new HashMap[n];
-//outer loop - interate through numbers
-for (int j = 0; j < A.length; j++) {
-//create a hashmap
-dp[j] = new HashMap<>();
-//iterate from beginning to find a difference with all previous numbers
-for (int i = 0; i < j; i++) {
-int d = A[j] - A[i];
-//for the difference, look in the "i"th hashmap if that difference exist, if it does, increment the counter
-//dp: [{},{1:2},{2:2,3:2},{3:3,5:2,6:2},{1:2,4:2,6:2,7:2}] check 3:3 for 4, 7, 10
-dp[j].put(d, dp[i].getOrDefault(d, 1) + 1);
-//take max
-res = Math.max(res, dp[j].get(d));
-}
-}
-return res;
+[3,6,9,12]
+​
+we will be making a HashMap of Arrays for all the elements of this array and it will store the diff of this currElemennt with the prev numbers in this array and the value pair would be the number of times you have seen this diff in the Hashmap of that prev element plus 1. And then we will be taking out the maxValue from this HashMap and updating it regularly.
+​
+[[:], [3 : 1],[6 : 1, 3 : 2],[9 : 1, 6 : 1, 3 : 3]]
+​
+we see that diff 3 occurs the most number of time so that plus 1 ( accounting for the case that we need 4 numbers to get a diff 3 times)
