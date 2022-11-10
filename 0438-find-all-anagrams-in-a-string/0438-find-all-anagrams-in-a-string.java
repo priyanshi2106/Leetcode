@@ -17,6 +17,8 @@ class Solution {
         // }
         // return ans;
         
+        //T: O(N) -> N is length of S
+        //S: O(K)         
         List<Integer> ans = new ArrayList<>();
         HashMap<Character, Integer> pCount = new HashMap<>();
         HashMap<Character, Integer> sCount = new HashMap<>();
