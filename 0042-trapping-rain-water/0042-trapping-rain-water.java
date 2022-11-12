@@ -1,5 +1,7 @@
 class Solution {
     public int trap(int[] height) {
+        //T: O(n) (only single iteration)
+        //S: O(1)
         //we find the min(height at left pt and height at right pt)
         int left = 0;
         int right = height.length-1;
