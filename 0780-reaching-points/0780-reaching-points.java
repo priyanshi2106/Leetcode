@@ -14,36 +14,18 @@ class Solution {
         //Using Modulous operation
         //We go from the result to the top in order to save time and instead of subtracting ty. = ty-tx we will use ty = ty%tx.
         //with just one condition i.e (tx - x) % y == 0 we can check if tx would reduce down to x or not.
+      
+      
         while(tx >= sx && ty >= sy){
-            if(tx > ty){
-                if(sy == ty)
-                    return (tx-sx)%ty == 0;
-                
-                
-                 tx %= ty;
-                
+            if(tx > ty) {
+                if(sy == ty) return (tx - sx) % ty == 0;
+                tx %= ty;
             }
-            else{ 
-                if(sx == tx)
-                return (ty-sy)%tx == 0;
-            
-                
-                 ty %= tx;
-                
-                
+            else {
+                if(sx == tx) return (ty - sy) % tx == 0;
+                ty %= tx;
             }
         }
         return false;
-        // while(tx >= sx && ty >= sy){
-        //     if(tx > ty) {
-        //         if(sy == ty) return (tx - sx) % ty == 0;
-        //         tx %= ty;
-        //     }
-        //     else {
-        //         if(sx == tx) return (ty - sy) % tx == 0;
-        //         ty %= tx;
-        //     }
-        // }
-        // return false;
     }
 }
