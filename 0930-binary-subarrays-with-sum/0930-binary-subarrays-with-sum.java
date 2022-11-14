@@ -13,7 +13,7 @@ class Solution {
         while(right < nums.length){
             sum = sum + nums[right];
             while(left <= right && sum > goal){
-                //we need to dec the sum because it exceeds the goal
+                //we need to dec the sum because it exceeded the goal
                 sum = sum - nums[left];
                 left++;
             }
