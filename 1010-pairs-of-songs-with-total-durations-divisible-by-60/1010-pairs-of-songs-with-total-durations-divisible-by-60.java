@@ -14,33 +14,17 @@ class Solution {
         // }
         // return count;
         
-//         int count = 0;
-//         HashMap<Integer,Integer> hm = new HashMap<>();
-//         //This map will store the rem and the freq of each rem
-//         for(int i = 0; i < time.length; i++){
-//             //Take out the rem
-//             int rem = time[i] % 60;
-//             int target = 60 - (rem);
-//             //check if the target is present in the map
-//             if(hm.containsKey(target)){
-//                 //if present add it to the count
-//                 count += hm.get(target);
-                
-//             }
-//             if(rem != 0){
-//                     hm.put(rem, hm.getOrDefault(rem,0) +1);
-//                 }
-//                 else{
-//                     hm.put(60, hm.getOrDefault(60,0)+1);
-//                 }
-//         }
-//         return count;
+
+        //T: O(n)
+        //S: O(1)
         
         int count = 0;
         HashMap<Integer,Integer> hm = new HashMap<>();
         for(int i = 0; i < time.length; i++){
-            if(time[i] % 60 == 0){ //case when the number is divisible by the                                            divisor i.e 60
-                count += hm.getOrDefault(0,0);    
+            
+            if(time[i] % 60 == 0){ //case when the number is divisible by the                                             divisor i.e 60
+                count += hm.getOrDefault(0,0); 
+                //this will return the value stored at key 0, if not present it will                   return the default value that is 0.
             }
             else{
                 //Getting the rem that is stored in the hashmap
