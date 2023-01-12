@@ -10,6 +10,7 @@ class Solution {
         for(int i = 1; i < nums.length; i++){
             dp[i+1] = Math.max(dp[i], dp[i-1] + nums[i]);
         }
+        //Not returning dp[nums.length-1] bcs we started putting our ans from 1st             index
         return dp[nums.length];
     }
 }
