@@ -12,7 +12,7 @@ class Solution {
     }
     public int rob(int start, int end, int nums[]){
         int dp[] = new int[nums.length+1];
-        dp[0] = 0;
+        dp[start] = 0;
         dp[start+1] = nums[0];
         for(int i = 1; i < end; i++){
           dp[i+1] = Math.max(dp[i], dp[i-1] + nums[i]);
