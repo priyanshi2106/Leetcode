@@ -3,11 +3,13 @@ class Solution {
         // O(T) : O(m+n)
         // O(S) : O(1)
         int i = 0, j = 0;
+        
         //use stringBuilder for inplace string modifiction for faster execution
+        
         // String ans = "";
         StringBuilder ans = new StringBuilder();
-        char w1[] = word1.toCharArray();
-        char w2[] = word2.toCharArray();
+        // char w1[] = word1.toCharArray();
+        // char w2[] = word2.toCharArray();
         int len = word1.length() + word2.length();
         for (int k = 0; k < len; k++){
             if(i < word1.length() && j < word2.length()){
