@@ -1,5 +1,7 @@
 class Solution {
     public String gcdOfStrings(String str1, String str2) {
+        
+     //T(O) : O(min(m,n).(m+n))
         int l1 = str1.length();
         int l2 = str2.length();
         for(int i = Math.min(l1,l2); i > 0; i--) {
@@ -19,6 +21,5 @@ class Solution {
             String base = str1.substring(0, k);
             return str1.replace(base, "").isEmpty() && str2.replace(base, "").isEmpty();
         }
-            
     }
 }
