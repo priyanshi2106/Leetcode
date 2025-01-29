@@ -3,21 +3,22 @@ class Solution {
         if(nums.length == k) {
             return k;
         }
+        int zeroCount = 0;
+        int maxOne = 0;
         int start = 0;
-        int j = 0;
         int end = nums.length;
-         int maxLength = 0;
-         for( j = 0; j < end; j++){
+         for( int j = 0; j < end; j++){
             if(nums[j] == 0){
-                k--;
+                zeroCount++;
             }
-            if(k<0){
+            while(zeroCount > k){
                 if(nums[start] == 0){
-                    k++;
+                    zeroCount--;
                 }
                 start++;
             }
+            maxOne = Math.max(maxOne, j-start+1);
          }
-        return j-start;
+        return maxOne;
     }
 }
