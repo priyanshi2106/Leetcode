@@ -1,5 +1,7 @@
 class Solution {
     public int[][] merge(int[][] intervals) {
+        //time: O(nlogn)
+        //space: O(n)
         if(intervals.length <=1 ){
             return intervals;
         }
@@ -12,7 +14,7 @@ class Solution {
                 ans.add(i);
             }
             else{
-                //merge
+                //merge and change the ending index to the greater value
                 ans.getLast()[1] = Math.max(i[1], ans.getLast()[1]);
             }
         }
