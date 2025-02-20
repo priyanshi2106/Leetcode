@@ -1,17 +1,21 @@
 class Solution {
     public int[][] merge(int[][] intervals) {
-        //bcs we have to sort it using first element so that is why we use a[0]
-    Arrays.sort(intervals,(a,b) -> Integer.compare(a[0],b[0]));
-        LinkedList<int[]> merged = new LinkedList<>();
-        for(int []interval: intervals){
-            //first we will check if its empty and if not then make sure interval is not overlapping
-            if(merged.isEmpty() || merged.getLast()[1] < interval[0]){
-                merged.add(interval);
+        if(intervals.length <=1 ){
+            return intervals;
+        }
+        List<int []> ans = new LinkedList<>();
+        //sorting the arrays based on first element in the array
+        Arrays.sort(intervals,(a,b) -> Integer.compare(a[0],b[0]) );
+
+        for(int i[]: intervals){
+            if(ans.isEmpty() || ans.getLast()[1] < i[0]){
+                ans.add(i);
             }
             else{
-                merged.getLast()[1] = Math.max(merged.getLast()[1], interval[1]);
+                //merge
+                ans.getLast()[1] = Math.max(i[1], ans.getLast()[1]);
             }
         }
-        return merged.toArray(new int[merged.size()][]);
+        return ans.toArray(new  int[ans.size()][]);
     }
 }
