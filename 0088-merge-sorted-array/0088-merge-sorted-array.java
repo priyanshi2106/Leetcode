@@ -1,20 +1,23 @@
 class Solution {
     public void merge(int[] nums1, int m, int[] nums2, int n) {
-       //we can merge nums2 into nums1 and then sort the array but time complexity is nlogn
-       int i = m-1;
-       int j = n-1;
-       for(int k = m+n-1; k >= 0; k--){
-        if(j < 0){
-            break;
+        // we can merge nums2 into nums1 and then sort the array but time complexity is
+        // nlogn
+        
+        //start from the end 
+        int pt1 = m-1;
+        int pt2 = n-1;
+        for(int i = m+n-1; i >= 0; i--){
+             if(pt2 < 0){
+                break;
+            }
+            if( pt1 >=0 && nums1[pt1] > nums2[pt2]){
+                nums1[i] = nums1[pt1];
+                pt1--;
+            }
+            else{
+                nums1[i] = nums2[pt2];
+                pt2--;
+            }
         }
-        if(i >= 0 && nums1[i] > nums2[j]){
-            nums1[k] = nums1[i];
-            i--;
-        }
-        else{
-            nums1[k] = nums2[j];
-            j--;
-        }
-       }
     }
 }
