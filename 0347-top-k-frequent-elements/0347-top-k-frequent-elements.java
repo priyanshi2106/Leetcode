@@ -18,7 +18,7 @@ class Solution {
         // }
         // return ans;
         
-        //Bucket Sort 
+        //                        BUCKET SORT
         //T: O(n)
         //S: O(n)
         
@@ -33,7 +33,7 @@ class Solution {
             }
         }
         
-        //Make a list of arrayas named buckets so that you can store the no in the particular freq represented by the index. Doing so( making the index as freq) will make it easier for us to find the top k elements bcs then we can iterate from the end and see if that index has any element stored in it.
+        //Make an array of lists named buckets so that you can store the no in the particular freq represented by the index. Doing so( making the index as freq) will make it easier for us to find the top k elements bcs then we can iterate from the end and see if that index has any element stored in it.
         
         //Creating a bucket and they will store the list of numbers of that freq
         List<Integer> [] buckets = new List[nums.length+1];
@@ -48,7 +48,7 @@ class Solution {
         
         List<Integer> flattened = new ArrayList<>();
         for(int i = buckets.length -1; i >= 0; i--){
-            for(int num : buckets[i]){
+            for(int num : buckets[i]){ // This loop is here bcs there might be more than 1 element in bucket[i]
                 flattened.add(num);
             }
         }
@@ -56,5 +56,6 @@ class Solution {
             ans[i] = flattened.get(i);
         }
         return ans;
+
     }
 } 
