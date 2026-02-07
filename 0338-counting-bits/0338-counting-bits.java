@@ -5,7 +5,7 @@ class Solution {
             int count = 0;
             int temp = i;
             while(temp != 0){
-                count += temp & (temp &1);
+                count += temp & 1;
                 temp >>>=1;
             }
             ans[i] = count;
