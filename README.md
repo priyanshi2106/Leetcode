@@ -51,4 +51,16 @@ This contains solution of all the leetcode questions i have been solving.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0253-meeting-rooms-ii](https://github.com/priyanshi2106/Leetcode/tree/main/0253-meeting-rooms-ii/) | Medium |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2380-time-needed-to-rearrange-a-binary-string](https://github.com/priyanshi2106/Leetcode/tree/main/2380-time-needed-to-rearrange-a-binary-string/) | Medium |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2380-time-needed-to-rearrange-a-binary-string](https://github.com/priyanshi2106/Leetcode/tree/main/2380-time-needed-to-rearrange-a-binary-string/) | Medium |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2380-time-needed-to-rearrange-a-binary-string](https://github.com/priyanshi2106/Leetcode/tree/main/2380-time-needed-to-rearrange-a-binary-string/) | Medium |
 <!---LeetCode Topics End-->
