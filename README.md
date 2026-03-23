@@ -20,6 +20,7 @@ This contains solution of all the leetcode questions i have been solving.
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/priyanshi2106/Leetcode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0146-lru-cache](https://github.com/priyanshi2106/Leetcode/tree/main/0146-lru-cache/) | Medium |
 ## Linked List
 | Problem Name | Difficulty |
@@ -59,6 +60,7 @@ This contains solution of all the leetcode questions i have been solving.
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/priyanshi2106/Leetcode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0443-string-compression](https://github.com/priyanshi2106/Leetcode/tree/main/0443-string-compression/) | Medium |
 | [2380-time-needed-to-rearrange-a-binary-string](https://github.com/priyanshi2106/Leetcode/tree/main/2380-time-needed-to-rearrange-a-binary-string/) | Medium |
 ## Dynamic Programming
@@ -73,6 +75,7 @@ This contains solution of all the leetcode questions i have been solving.
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/priyanshi2106/Leetcode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [3634-minimum-removals-to-balance-array](https://github.com/priyanshi2106/Leetcode/tree/main/3634-minimum-removals-to-balance-array/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
