@@ -7,7 +7,7 @@ class Solution {
             minSoFar = prices[i];
         }
         int profit = prices[i] - minSoFar;
-        max = Math.max(max, profit);
+        max = Math.max(profit, max);
        }
        return max;
     }
