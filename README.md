@@ -65,6 +65,7 @@ This contains solution of all the leetcode questions i have been solving.
 | [0003-longest-substring-without-repeating-characters](https://github.com/priyanshi2106/Leetcode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0005-longest-palindromic-substring](https://github.com/priyanshi2106/Leetcode/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0443-string-compression](https://github.com/priyanshi2106/Leetcode/tree/main/0443-string-compression/) | Medium |
+| [1839-longest-substring-of-all-vowels-in-order](https://github.com/priyanshi2106/Leetcode/tree/main/1839-longest-substring-of-all-vowels-in-order/) | Medium |
 | [2380-time-needed-to-rearrange-a-binary-string](https://github.com/priyanshi2106/Leetcode/tree/main/2380-time-needed-to-rearrange-a-binary-string/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
@@ -81,6 +82,7 @@ This contains solution of all the leetcode questions i have been solving.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/priyanshi2106/Leetcode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [1839-longest-substring-of-all-vowels-in-order](https://github.com/priyanshi2106/Leetcode/tree/main/1839-longest-substring-of-all-vowels-in-order/) | Medium |
 | [3634-minimum-removals-to-balance-array](https://github.com/priyanshi2106/Leetcode/tree/main/3634-minimum-removals-to-balance-array/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
