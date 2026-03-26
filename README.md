@@ -6,6 +6,7 @@ This contains solution of all the leetcode questions i have been solving.
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0011-container-with-most-water](https://github.com/priyanshi2106/Leetcode/tree/main/0011-container-with-most-water/) | Medium |
 | [0057-insert-interval](https://github.com/priyanshi2106/Leetcode/tree/main/0057-insert-interval/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/priyanshi2106/Leetcode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0213-house-robber-ii](https://github.com/priyanshi2106/Leetcode/tree/main/0213-house-robber-ii/) | Medium |
@@ -45,11 +46,13 @@ This contains solution of all the leetcode questions i have been solving.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/priyanshi2106/Leetcode/tree/main/0005-longest-palindromic-substring/) | Medium |
+| [0011-container-with-most-water](https://github.com/priyanshi2106/Leetcode/tree/main/0011-container-with-most-water/) | Medium |
 | [0253-meeting-rooms-ii](https://github.com/priyanshi2106/Leetcode/tree/main/0253-meeting-rooms-ii/) | Medium |
 | [0443-string-compression](https://github.com/priyanshi2106/Leetcode/tree/main/0443-string-compression/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0011-container-with-most-water](https://github.com/priyanshi2106/Leetcode/tree/main/0011-container-with-most-water/) | Medium |
 | [0253-meeting-rooms-ii](https://github.com/priyanshi2106/Leetcode/tree/main/0253-meeting-rooms-ii/) | Medium |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
