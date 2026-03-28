@@ -101,10 +101,12 @@ This contains solution of all the leetcode questions i have been solving.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0207-course-schedule](https://github.com/priyanshi2106/Leetcode/tree/main/0207-course-schedule/) | Medium |
+| [0226-invert-binary-tree](https://github.com/priyanshi2106/Leetcode/tree/main/0226-invert-binary-tree/) | Easy |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0207-course-schedule](https://github.com/priyanshi2106/Leetcode/tree/main/0207-course-schedule/) | Medium |
+| [0226-invert-binary-tree](https://github.com/priyanshi2106/Leetcode/tree/main/0226-invert-binary-tree/) | Easy |
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -141,4 +143,12 @@ This contains solution of all the leetcode questions i have been solving.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1219-path-with-maximum-gold](https://github.com/priyanshi2106/Leetcode/tree/main/1219-path-with-maximum-gold/) | Medium |
+## Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0226-invert-binary-tree](https://github.com/priyanshi2106/Leetcode/tree/main/0226-invert-binary-tree/) | Easy |
+## Binary Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0226-invert-binary-tree](https://github.com/priyanshi2106/Leetcode/tree/main/0226-invert-binary-tree/) | Easy |
 <!---LeetCode Topics End-->
