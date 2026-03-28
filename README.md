@@ -16,6 +16,7 @@ This contains solution of all the leetcode questions i have been solving.
 | [0628-maximum-product-of-three-numbers](https://github.com/priyanshi2106/Leetcode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0704-binary-search](https://github.com/priyanshi2106/Leetcode/tree/main/0704-binary-search/) | Easy |
 | [0740-delete-and-earn](https://github.com/priyanshi2106/Leetcode/tree/main/0740-delete-and-earn/) | Medium |
+| [1219-path-with-maximum-gold](https://github.com/priyanshi2106/Leetcode/tree/main/1219-path-with-maximum-gold/) | Medium |
 | [3634-minimum-removals-to-balance-array](https://github.com/priyanshi2106/Leetcode/tree/main/3634-minimum-removals-to-balance-array/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
@@ -132,4 +133,12 @@ This contains solution of all the leetcode questions i have been solving.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0347-top-k-frequent-elements](https://github.com/priyanshi2106/Leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
+## Backtracking
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1219-path-with-maximum-gold](https://github.com/priyanshi2106/Leetcode/tree/main/1219-path-with-maximum-gold/) | Medium |
+## Matrix
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1219-path-with-maximum-gold](https://github.com/priyanshi2106/Leetcode/tree/main/1219-path-with-maximum-gold/) | Medium |
 <!---LeetCode Topics End-->
