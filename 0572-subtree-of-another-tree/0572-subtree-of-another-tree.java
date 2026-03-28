@@ -15,18 +15,24 @@
  */
 class Solution {
     public boolean isSubtree(TreeNode root, TreeNode subRoot) {
-        if(root == null){
-            return false;
-        }
-        if(isIdentical(root, subRoot)){
+       if(root == null || subRoot == null){
+        return false;
+       }
+       if(isIdentical(subRoot, root)){
+        return true;
+       }
+       return isSubtree(root.left, subRoot) || isSubtree(root.right, subRoot);
+    }
+    public boolean isIdentical(TreeNode subRoot, TreeNode root){
+          if(root == null && subRoot == null){
             return true;
         }
-        return isSubTree(root.left, subRoot) || isSubTree(root.right, subRoot);
-    }
-    public boolean isIdentical(TreeNode root1, TreeNode subRoot1){
-        if(root1 == null || subRoot1 == null){
-            return root1==null && subRoot1==null;
+        if(subRoot == null || root == null){
+            return false;
         }
-        return root1.val == subRoot1.val && isIdentical(root1.left,subRoot1.left) && isIdentical(root1.right,subRoot1.right);
+        if(subRoot.val != root.val){
+            return false;
+        }
+        return (isIdentical(subRoot.left, root.left) && isIdentical(subRoot.right, root.right));
     }
 }
