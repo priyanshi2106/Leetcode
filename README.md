@@ -17,6 +17,7 @@ This contains solution of all the leetcode questions i have been solving.
 | [0628-maximum-product-of-three-numbers](https://github.com/priyanshi2106/Leetcode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0704-binary-search](https://github.com/priyanshi2106/Leetcode/tree/main/0704-binary-search/) | Easy |
 | [0740-delete-and-earn](https://github.com/priyanshi2106/Leetcode/tree/main/0740-delete-and-earn/) | Medium |
+| [0994-rotting-oranges](https://github.com/priyanshi2106/Leetcode/tree/main/0994-rotting-oranges/) | Medium |
 | [1219-path-with-maximum-gold](https://github.com/priyanshi2106/Leetcode/tree/main/1219-path-with-maximum-gold/) | Medium |
 | [3634-minimum-removals-to-balance-array](https://github.com/priyanshi2106/Leetcode/tree/main/3634-minimum-removals-to-balance-array/) | Medium |
 ## Binary Search
@@ -115,6 +116,7 @@ This contains solution of all the leetcode questions i have been solving.
 | [0104-maximum-depth-of-binary-tree](https://github.com/priyanshi2106/Leetcode/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0207-course-schedule](https://github.com/priyanshi2106/Leetcode/tree/main/0207-course-schedule/) | Medium |
 | [0226-invert-binary-tree](https://github.com/priyanshi2106/Leetcode/tree/main/0226-invert-binary-tree/) | Easy |
+| [0994-rotting-oranges](https://github.com/priyanshi2106/Leetcode/tree/main/0994-rotting-oranges/) | Medium |
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -151,6 +153,7 @@ This contains solution of all the leetcode questions i have been solving.
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0994-rotting-oranges](https://github.com/priyanshi2106/Leetcode/tree/main/0994-rotting-oranges/) | Medium |
 | [1219-path-with-maximum-gold](https://github.com/priyanshi2106/Leetcode/tree/main/1219-path-with-maximum-gold/) | Medium |
 ## Tree
 | Problem Name | Difficulty |
