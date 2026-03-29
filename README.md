@@ -33,6 +33,7 @@ This contains solution of all the leetcode questions i have been solving.
 | [0146-lru-cache](https://github.com/priyanshi2106/Leetcode/tree/main/0146-lru-cache/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/priyanshi2106/Leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0740-delete-and-earn](https://github.com/priyanshi2106/Leetcode/tree/main/0740-delete-and-earn/) | Medium |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/priyanshi2106/Leetcode/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -109,6 +110,7 @@ This contains solution of all the leetcode questions i have been solving.
 | [0207-course-schedule](https://github.com/priyanshi2106/Leetcode/tree/main/0207-course-schedule/) | Medium |
 | [0226-invert-binary-tree](https://github.com/priyanshi2106/Leetcode/tree/main/0226-invert-binary-tree/) | Easy |
 | [0572-subtree-of-another-tree](https://github.com/priyanshi2106/Leetcode/tree/main/0572-subtree-of-another-tree/) | Easy |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/priyanshi2106/Leetcode/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -116,6 +118,7 @@ This contains solution of all the leetcode questions i have been solving.
 | [0104-maximum-depth-of-binary-tree](https://github.com/priyanshi2106/Leetcode/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0207-course-schedule](https://github.com/priyanshi2106/Leetcode/tree/main/0207-course-schedule/) | Medium |
 | [0226-invert-binary-tree](https://github.com/priyanshi2106/Leetcode/tree/main/0226-invert-binary-tree/) | Easy |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/priyanshi2106/Leetcode/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
 | [0994-rotting-oranges](https://github.com/priyanshi2106/Leetcode/tree/main/0994-rotting-oranges/) | Medium |
 ## Graph Theory
 | Problem Name | Difficulty |
@@ -163,6 +166,7 @@ This contains solution of all the leetcode questions i have been solving.
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/priyanshi2106/Leetcode/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0226-invert-binary-tree](https://github.com/priyanshi2106/Leetcode/tree/main/0226-invert-binary-tree/) | Easy |
 | [0572-subtree-of-another-tree](https://github.com/priyanshi2106/Leetcode/tree/main/0572-subtree-of-another-tree/) | Easy |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/priyanshi2106/Leetcode/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -171,6 +175,7 @@ This contains solution of all the leetcode questions i have been solving.
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/priyanshi2106/Leetcode/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0226-invert-binary-tree](https://github.com/priyanshi2106/Leetcode/tree/main/0226-invert-binary-tree/) | Easy |
 | [0572-subtree-of-another-tree](https://github.com/priyanshi2106/Leetcode/tree/main/0572-subtree-of-another-tree/) | Easy |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/priyanshi2106/Leetcode/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
 ## String Matching
 | Problem Name | Difficulty |
 | ------- | ------- |
