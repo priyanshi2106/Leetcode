@@ -40,6 +40,7 @@ This contains solution of all the leetcode questions i have been solving.
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/priyanshi2106/Leetcode/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0146-lru-cache](https://github.com/priyanshi2106/Leetcode/tree/main/0146-lru-cache/) | Medium |
 | [0206-reverse-linked-list](https://github.com/priyanshi2106/Leetcode/tree/main/0206-reverse-linked-list/) | Easy |
 ## Design
@@ -201,5 +202,6 @@ This contains solution of all the leetcode questions i have been solving.
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/priyanshi2106/Leetcode/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0206-reverse-linked-list](https://github.com/priyanshi2106/Leetcode/tree/main/0206-reverse-linked-list/) | Easy |
 <!---LeetCode Topics End-->
