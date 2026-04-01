@@ -4,36 +4,39 @@ class Solution {
         // O(n) to count frq
         // O(klogk) to perform operations on maxHeap so O(nlogk)
         //calculate the freq
-        HashMap<Character, Integer> hm = new HashMap<>();
+        HashMap<Character, Integer> count = new HashMap<>();
         for (char c : s.toCharArray()) {
-            hm.put(c, hm.getOrDefault(c, 0) + 1);
+            count.put(c, count.getOrDefault(c, 0) + 1);
         }
-        PriorityQueue<Character> pq = new PriorityQueue<>((a, b) -> hm.get(b) - hm.get(a));
-        pq.addAll(hm.keySet());
+        //create a priority queue
+        PriorityQueue<Character> maxHeap = new PriorityQueue<>((a, b) -> count.get(b) - count.get(a));
+        maxHeap.addAll(count.keySet());
+
         StringBuilder sb = new StringBuilder();
-        while (pq.size() > 1) {
-            char curr = pq.remove();
-            char next = pq.remove();
+        while (maxHeap.size() > 1) {
+            char curr = maxHeap.remove();
+            char next = maxHeap.remove();
             sb.append(curr);
             sb.append(next);
-            //dec freq
-            hm.put(curr, hm.get(curr) - 1);
-            hm.put(next, hm.get(next) - 1);
-
-            if (hm.get(curr) > 0) {
-                pq.add(curr);
+            //dec the freq of these char from the hashmap
+            count.put(curr, count.get(curr) - 1);
+            count.put(next, count.get(next) - 1);
+            //if we still have freq more than 0m we add it back to heap to take care we add all the freq and place them one after another
+            if (count.get(curr) > 0) {
+                maxHeap.add(curr);
             }
-            if (hm.get(next) > 0) {
-                pq.add(next);
+            if (count.get(next) > 0) {
+                maxHeap.add(next);
             }
 
         }
-        if(!pq.isEmpty()){
-            char c = pq.remove();
-            if(hm.get(c) > 1){
+        if (!maxHeap.isEmpty()) {
+            //we only have one char in heap
+            char last = maxHeap.remove();
+            if (count.get(last) > 1) {
                 return "";
             }
-            sb.append(c);
+            sb.append(last);
         }
         return sb.toString();
     }
