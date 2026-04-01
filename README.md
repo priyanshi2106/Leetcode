@@ -37,6 +37,7 @@ This contains solution of all the leetcode questions i have been solving.
 | [0268-missing-number](https://github.com/priyanshi2106/Leetcode/tree/main/0268-missing-number/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/priyanshi2106/Leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0740-delete-and-earn](https://github.com/priyanshi2106/Leetcode/tree/main/0740-delete-and-earn/) | Medium |
+| [0767-reorganize-string](https://github.com/priyanshi2106/Leetcode/tree/main/0767-reorganize-string/) | Medium |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/priyanshi2106/Leetcode/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
 ## Linked List
 | Problem Name | Difficulty |
@@ -62,6 +63,7 @@ This contains solution of all the leetcode questions i have been solving.
 | [0268-missing-number](https://github.com/priyanshi2106/Leetcode/tree/main/0268-missing-number/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/priyanshi2106/Leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/priyanshi2106/Leetcode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
+| [0767-reorganize-string](https://github.com/priyanshi2106/Leetcode/tree/main/0767-reorganize-string/) | Medium |
 | [3634-minimum-removals-to-balance-array](https://github.com/priyanshi2106/Leetcode/tree/main/3634-minimum-removals-to-balance-array/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -77,11 +79,13 @@ This contains solution of all the leetcode questions i have been solving.
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/priyanshi2106/Leetcode/tree/main/0011-container-with-most-water/) | Medium |
 | [0253-meeting-rooms-ii](https://github.com/priyanshi2106/Leetcode/tree/main/0253-meeting-rooms-ii/) | Medium |
+| [0767-reorganize-string](https://github.com/priyanshi2106/Leetcode/tree/main/0767-reorganize-string/) | Medium |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0253-meeting-rooms-ii](https://github.com/priyanshi2106/Leetcode/tree/main/0253-meeting-rooms-ii/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/priyanshi2106/Leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [0767-reorganize-string](https://github.com/priyanshi2106/Leetcode/tree/main/0767-reorganize-string/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -92,6 +96,7 @@ This contains solution of all the leetcode questions i have been solving.
 | [0003-longest-substring-without-repeating-characters](https://github.com/priyanshi2106/Leetcode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0005-longest-palindromic-substring](https://github.com/priyanshi2106/Leetcode/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0443-string-compression](https://github.com/priyanshi2106/Leetcode/tree/main/0443-string-compression/) | Medium |
+| [0767-reorganize-string](https://github.com/priyanshi2106/Leetcode/tree/main/0767-reorganize-string/) | Medium |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/priyanshi2106/Leetcode/tree/main/1209-remove-all-adjacent-duplicates-in-string-ii/) | Medium |
 | [1839-longest-substring-of-all-vowels-in-order](https://github.com/priyanshi2106/Leetcode/tree/main/1839-longest-substring-of-all-vowels-in-order/) | Medium |
 | [2380-time-needed-to-rearrange-a-binary-string](https://github.com/priyanshi2106/Leetcode/tree/main/2380-time-needed-to-rearrange-a-binary-string/) | Medium |
@@ -157,6 +162,7 @@ This contains solution of all the leetcode questions i have been solving.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0347-top-k-frequent-elements](https://github.com/priyanshi2106/Leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [0767-reorganize-string](https://github.com/priyanshi2106/Leetcode/tree/main/0767-reorganize-string/) | Medium |
 ## Quickselect
 | Problem Name | Difficulty |
 | ------- | ------- |
