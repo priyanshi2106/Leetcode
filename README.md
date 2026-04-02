@@ -12,6 +12,7 @@ This contains solution of all the leetcode questions i have been solving.
 | [0057-insert-interval](https://github.com/priyanshi2106/Leetcode/tree/main/0057-insert-interval/) | Medium |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/priyanshi2106/Leetcode/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/priyanshi2106/Leetcode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
+| [0198-house-robber](https://github.com/priyanshi2106/Leetcode/tree/main/0198-house-robber/) | Medium |
 | [0213-house-robber-ii](https://github.com/priyanshi2106/Leetcode/tree/main/0213-house-robber-ii/) | Medium |
 | [0252-meeting-rooms](https://github.com/priyanshi2106/Leetcode/tree/main/0252-meeting-rooms/) | Easy |
 | [0253-meeting-rooms-ii](https://github.com/priyanshi2106/Leetcode/tree/main/0253-meeting-rooms-ii/) | Medium |
@@ -112,6 +113,7 @@ This contains solution of all the leetcode questions i have been solving.
 | [0005-longest-palindromic-substring](https://github.com/priyanshi2106/Leetcode/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0070-climbing-stairs](https://github.com/priyanshi2106/Leetcode/tree/main/0070-climbing-stairs/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/priyanshi2106/Leetcode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
+| [0198-house-robber](https://github.com/priyanshi2106/Leetcode/tree/main/0198-house-robber/) | Medium |
 | [0213-house-robber-ii](https://github.com/priyanshi2106/Leetcode/tree/main/0213-house-robber-ii/) | Medium |
 | [0740-delete-and-earn](https://github.com/priyanshi2106/Leetcode/tree/main/0740-delete-and-earn/) | Medium |
 | [2380-time-needed-to-rearrange-a-binary-string](https://github.com/priyanshi2106/Leetcode/tree/main/2380-time-needed-to-rearrange-a-binary-string/) | Medium |
