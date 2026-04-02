@@ -38,6 +38,7 @@ This contains solution of all the leetcode questions i have been solving.
 | [0146-lru-cache](https://github.com/priyanshi2106/Leetcode/tree/main/0146-lru-cache/) | Medium |
 | [0268-missing-number](https://github.com/priyanshi2106/Leetcode/tree/main/0268-missing-number/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/priyanshi2106/Leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [0424-longest-repeating-character-replacement](https://github.com/priyanshi2106/Leetcode/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0740-delete-and-earn](https://github.com/priyanshi2106/Leetcode/tree/main/0740-delete-and-earn/) | Medium |
 | [0767-reorganize-string](https://github.com/priyanshi2106/Leetcode/tree/main/0767-reorganize-string/) | Medium |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/priyanshi2106/Leetcode/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
@@ -99,6 +100,7 @@ This contains solution of all the leetcode questions i have been solving.
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/priyanshi2106/Leetcode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0005-longest-palindromic-substring](https://github.com/priyanshi2106/Leetcode/tree/main/0005-longest-palindromic-substring/) | Medium |
+| [0424-longest-repeating-character-replacement](https://github.com/priyanshi2106/Leetcode/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0443-string-compression](https://github.com/priyanshi2106/Leetcode/tree/main/0443-string-compression/) | Medium |
 | [0767-reorganize-string](https://github.com/priyanshi2106/Leetcode/tree/main/0767-reorganize-string/) | Medium |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/priyanshi2106/Leetcode/tree/main/1209-remove-all-adjacent-duplicates-in-string-ii/) | Medium |
@@ -120,6 +122,7 @@ This contains solution of all the leetcode questions i have been solving.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/priyanshi2106/Leetcode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0424-longest-repeating-character-replacement](https://github.com/priyanshi2106/Leetcode/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [1839-longest-substring-of-all-vowels-in-order](https://github.com/priyanshi2106/Leetcode/tree/main/1839-longest-substring-of-all-vowels-in-order/) | Medium |
 | [3634-minimum-removals-to-balance-array](https://github.com/priyanshi2106/Leetcode/tree/main/3634-minimum-removals-to-balance-array/) | Medium |
 ## Depth-First Search
