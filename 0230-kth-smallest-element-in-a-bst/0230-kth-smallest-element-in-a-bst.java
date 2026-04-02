@@ -16,6 +16,9 @@
  //[1,2,3,4,5,6]
 class Solution {
     public int kthSmallest(TreeNode root, int k) {
+        //T: O(n)
+        //S: O(n)
+
         //inorder traversal is always sorted
         int ans = 0;
         List<Integer> inorder = new LinkedList<>();
