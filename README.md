@@ -134,6 +134,7 @@ This contains solution of all the leetcode questions i have been solving.
 | [0104-maximum-depth-of-binary-tree](https://github.com/priyanshi2106/Leetcode/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0207-course-schedule](https://github.com/priyanshi2106/Leetcode/tree/main/0207-course-schedule/) | Medium |
 | [0226-invert-binary-tree](https://github.com/priyanshi2106/Leetcode/tree/main/0226-invert-binary-tree/) | Easy |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/priyanshi2106/Leetcode/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0572-subtree-of-another-tree](https://github.com/priyanshi2106/Leetcode/tree/main/0572-subtree-of-another-tree/) | Easy |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/priyanshi2106/Leetcode/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
 ## Breadth-First Search
@@ -196,6 +197,7 @@ This contains solution of all the leetcode questions i have been solving.
 | [0104-maximum-depth-of-binary-tree](https://github.com/priyanshi2106/Leetcode/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/priyanshi2106/Leetcode/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0226-invert-binary-tree](https://github.com/priyanshi2106/Leetcode/tree/main/0226-invert-binary-tree/) | Easy |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/priyanshi2106/Leetcode/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0572-subtree-of-another-tree](https://github.com/priyanshi2106/Leetcode/tree/main/0572-subtree-of-another-tree/) | Easy |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/priyanshi2106/Leetcode/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
 ## Binary Tree
@@ -207,6 +209,7 @@ This contains solution of all the leetcode questions i have been solving.
 | [0104-maximum-depth-of-binary-tree](https://github.com/priyanshi2106/Leetcode/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/priyanshi2106/Leetcode/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0226-invert-binary-tree](https://github.com/priyanshi2106/Leetcode/tree/main/0226-invert-binary-tree/) | Easy |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/priyanshi2106/Leetcode/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0572-subtree-of-another-tree](https://github.com/priyanshi2106/Leetcode/tree/main/0572-subtree-of-another-tree/) | Easy |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/priyanshi2106/Leetcode/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
 ## String Matching
@@ -237,4 +240,5 @@ This contains solution of all the leetcode questions i have been solving.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0098-validate-binary-search-tree](https://github.com/priyanshi2106/Leetcode/tree/main/0098-validate-binary-search-tree/) | Medium |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/priyanshi2106/Leetcode/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 <!---LeetCode Topics End-->
