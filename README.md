@@ -110,6 +110,7 @@ This contains solution of all the leetcode questions i have been solving.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/priyanshi2106/Leetcode/tree/main/0005-longest-palindromic-substring/) | Medium |
+| [0070-climbing-stairs](https://github.com/priyanshi2106/Leetcode/tree/main/0070-climbing-stairs/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/priyanshi2106/Leetcode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0213-house-robber-ii](https://github.com/priyanshi2106/Leetcode/tree/main/0213-house-robber-ii/) | Medium |
 | [0740-delete-and-earn](https://github.com/priyanshi2106/Leetcode/tree/main/0740-delete-and-earn/) | Medium |
@@ -157,6 +158,7 @@ This contains solution of all the leetcode questions i have been solving.
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0070-climbing-stairs](https://github.com/priyanshi2106/Leetcode/tree/main/0070-climbing-stairs/) | Easy |
 | [0268-missing-number](https://github.com/priyanshi2106/Leetcode/tree/main/0268-missing-number/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/priyanshi2106/Leetcode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 ## Divide and Conquer
@@ -241,4 +243,8 @@ This contains solution of all the leetcode questions i have been solving.
 | ------- | ------- |
 | [0098-validate-binary-search-tree](https://github.com/priyanshi2106/Leetcode/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/priyanshi2106/Leetcode/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
+## Memoization
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0070-climbing-stairs](https://github.com/priyanshi2106/Leetcode/tree/main/0070-climbing-stairs/) | Easy |
 <!---LeetCode Topics End-->
