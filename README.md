@@ -47,6 +47,7 @@ This contains solution of all the leetcode questions i have been solving.
 | [0019-remove-nth-node-from-end-of-list](https://github.com/priyanshi2106/Leetcode/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0021-merge-two-sorted-lists](https://github.com/priyanshi2106/Leetcode/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0141-linked-list-cycle](https://github.com/priyanshi2106/Leetcode/tree/main/0141-linked-list-cycle/) | Easy |
+| [0143-reorder-list](https://github.com/priyanshi2106/Leetcode/tree/main/0143-reorder-list/) | Medium |
 | [0146-lru-cache](https://github.com/priyanshi2106/Leetcode/tree/main/0146-lru-cache/) | Medium |
 | [0206-reverse-linked-list](https://github.com/priyanshi2106/Leetcode/tree/main/0206-reverse-linked-list/) | Easy |
 ## Design
@@ -74,6 +75,7 @@ This contains solution of all the leetcode questions i have been solving.
 | [0011-container-with-most-water](https://github.com/priyanshi2106/Leetcode/tree/main/0011-container-with-most-water/) | Medium |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/priyanshi2106/Leetcode/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0141-linked-list-cycle](https://github.com/priyanshi2106/Leetcode/tree/main/0141-linked-list-cycle/) | Easy |
+| [0143-reorder-list](https://github.com/priyanshi2106/Leetcode/tree/main/0143-reorder-list/) | Medium |
 | [0253-meeting-rooms-ii](https://github.com/priyanshi2106/Leetcode/tree/main/0253-meeting-rooms-ii/) | Medium |
 | [0443-string-compression](https://github.com/priyanshi2106/Leetcode/tree/main/0443-string-compression/) | Medium |
 ## Greedy
@@ -209,6 +211,7 @@ This contains solution of all the leetcode questions i have been solving.
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0143-reorder-list](https://github.com/priyanshi2106/Leetcode/tree/main/0143-reorder-list/) | Medium |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/priyanshi2106/Leetcode/tree/main/1209-remove-all-adjacent-duplicates-in-string-ii/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
@@ -218,5 +221,6 @@ This contains solution of all the leetcode questions i have been solving.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/priyanshi2106/Leetcode/tree/main/0021-merge-two-sorted-lists/) | Easy |
+| [0143-reorder-list](https://github.com/priyanshi2106/Leetcode/tree/main/0143-reorder-list/) | Medium |
 | [0206-reverse-linked-list](https://github.com/priyanshi2106/Leetcode/tree/main/0206-reverse-linked-list/) | Easy |
 <!---LeetCode Topics End-->
