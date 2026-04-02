@@ -7,6 +7,7 @@ This contains solution of all the leetcode questions i have been solving.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/priyanshi2106/Leetcode/tree/main/0011-container-with-most-water/) | Medium |
+| [0039-combination-sum](https://github.com/priyanshi2106/Leetcode/tree/main/0039-combination-sum/) | Medium |
 | [0057-insert-interval](https://github.com/priyanshi2106/Leetcode/tree/main/0057-insert-interval/) | Medium |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/priyanshi2106/Leetcode/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/priyanshi2106/Leetcode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
@@ -170,6 +171,7 @@ This contains solution of all the leetcode questions i have been solving.
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0039-combination-sum](https://github.com/priyanshi2106/Leetcode/tree/main/0039-combination-sum/) | Medium |
 | [1219-path-with-maximum-gold](https://github.com/priyanshi2106/Leetcode/tree/main/1219-path-with-maximum-gold/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
