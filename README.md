@@ -80,6 +80,7 @@ This contains solution of all the leetcode questions i have been solving.
 | [0143-reorder-list](https://github.com/priyanshi2106/Leetcode/tree/main/0143-reorder-list/) | Medium |
 | [0253-meeting-rooms-ii](https://github.com/priyanshi2106/Leetcode/tree/main/0253-meeting-rooms-ii/) | Medium |
 | [0443-string-compression](https://github.com/priyanshi2106/Leetcode/tree/main/0443-string-compression/) | Medium |
+| [0647-palindromic-substrings](https://github.com/priyanshi2106/Leetcode/tree/main/0647-palindromic-substrings/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -103,6 +104,7 @@ This contains solution of all the leetcode questions i have been solving.
 | [0005-longest-palindromic-substring](https://github.com/priyanshi2106/Leetcode/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0424-longest-repeating-character-replacement](https://github.com/priyanshi2106/Leetcode/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0443-string-compression](https://github.com/priyanshi2106/Leetcode/tree/main/0443-string-compression/) | Medium |
+| [0647-palindromic-substrings](https://github.com/priyanshi2106/Leetcode/tree/main/0647-palindromic-substrings/) | Medium |
 | [0767-reorganize-string](https://github.com/priyanshi2106/Leetcode/tree/main/0767-reorganize-string/) | Medium |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/priyanshi2106/Leetcode/tree/main/1209-remove-all-adjacent-duplicates-in-string-ii/) | Medium |
 | [1839-longest-substring-of-all-vowels-in-order](https://github.com/priyanshi2106/Leetcode/tree/main/1839-longest-substring-of-all-vowels-in-order/) | Medium |
@@ -115,6 +117,7 @@ This contains solution of all the leetcode questions i have been solving.
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/priyanshi2106/Leetcode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0198-house-robber](https://github.com/priyanshi2106/Leetcode/tree/main/0198-house-robber/) | Medium |
 | [0213-house-robber-ii](https://github.com/priyanshi2106/Leetcode/tree/main/0213-house-robber-ii/) | Medium |
+| [0647-palindromic-substrings](https://github.com/priyanshi2106/Leetcode/tree/main/0647-palindromic-substrings/) | Medium |
 | [0740-delete-and-earn](https://github.com/priyanshi2106/Leetcode/tree/main/0740-delete-and-earn/) | Medium |
 | [2380-time-needed-to-rearrange-a-binary-string](https://github.com/priyanshi2106/Leetcode/tree/main/2380-time-needed-to-rearrange-a-binary-string/) | Medium |
 ## Simulation
