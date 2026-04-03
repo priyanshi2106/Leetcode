@@ -102,6 +102,7 @@ This contains solution of all the leetcode questions i have been solving.
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/priyanshi2106/Leetcode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0005-longest-palindromic-substring](https://github.com/priyanshi2106/Leetcode/tree/main/0005-longest-palindromic-substring/) | Medium |
+| [0091-decode-ways](https://github.com/priyanshi2106/Leetcode/tree/main/0091-decode-ways/) | Medium |
 | [0424-longest-repeating-character-replacement](https://github.com/priyanshi2106/Leetcode/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0443-string-compression](https://github.com/priyanshi2106/Leetcode/tree/main/0443-string-compression/) | Medium |
 | [0647-palindromic-substrings](https://github.com/priyanshi2106/Leetcode/tree/main/0647-palindromic-substrings/) | Medium |
@@ -114,6 +115,7 @@ This contains solution of all the leetcode questions i have been solving.
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/priyanshi2106/Leetcode/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0070-climbing-stairs](https://github.com/priyanshi2106/Leetcode/tree/main/0070-climbing-stairs/) | Easy |
+| [0091-decode-ways](https://github.com/priyanshi2106/Leetcode/tree/main/0091-decode-ways/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/priyanshi2106/Leetcode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0198-house-robber](https://github.com/priyanshi2106/Leetcode/tree/main/0198-house-robber/) | Medium |
 | [0213-house-robber-ii](https://github.com/priyanshi2106/Leetcode/tree/main/0213-house-robber-ii/) | Medium |
