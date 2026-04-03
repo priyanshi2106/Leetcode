@@ -12,6 +12,7 @@ This contains solution of all the leetcode questions i have been solving.
 | [0057-insert-interval](https://github.com/priyanshi2106/Leetcode/tree/main/0057-insert-interval/) | Medium |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/priyanshi2106/Leetcode/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/priyanshi2106/Leetcode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
+| [0152-maximum-product-subarray](https://github.com/priyanshi2106/Leetcode/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0198-house-robber](https://github.com/priyanshi2106/Leetcode/tree/main/0198-house-robber/) | Medium |
 | [0213-house-robber-ii](https://github.com/priyanshi2106/Leetcode/tree/main/0213-house-robber-ii/) | Medium |
 | [0252-meeting-rooms](https://github.com/priyanshi2106/Leetcode/tree/main/0252-meeting-rooms/) | Easy |
@@ -117,6 +118,7 @@ This contains solution of all the leetcode questions i have been solving.
 | [0070-climbing-stairs](https://github.com/priyanshi2106/Leetcode/tree/main/0070-climbing-stairs/) | Easy |
 | [0091-decode-ways](https://github.com/priyanshi2106/Leetcode/tree/main/0091-decode-ways/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/priyanshi2106/Leetcode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
+| [0152-maximum-product-subarray](https://github.com/priyanshi2106/Leetcode/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0198-house-robber](https://github.com/priyanshi2106/Leetcode/tree/main/0198-house-robber/) | Medium |
 | [0213-house-robber-ii](https://github.com/priyanshi2106/Leetcode/tree/main/0213-house-robber-ii/) | Medium |
 | [0647-palindromic-substrings](https://github.com/priyanshi2106/Leetcode/tree/main/0647-palindromic-substrings/) | Medium |
