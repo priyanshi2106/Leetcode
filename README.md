@@ -12,6 +12,7 @@ This contains solution of all the leetcode questions i have been solving.
 | [0057-insert-interval](https://github.com/priyanshi2106/Leetcode/tree/main/0057-insert-interval/) | Medium |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/priyanshi2106/Leetcode/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/priyanshi2106/Leetcode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
+| [0139-word-break](https://github.com/priyanshi2106/Leetcode/tree/main/0139-word-break/) | Medium |
 | [0152-maximum-product-subarray](https://github.com/priyanshi2106/Leetcode/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0198-house-robber](https://github.com/priyanshi2106/Leetcode/tree/main/0198-house-robber/) | Medium |
 | [0213-house-robber-ii](https://github.com/priyanshi2106/Leetcode/tree/main/0213-house-robber-ii/) | Medium |
@@ -36,6 +37,7 @@ This contains solution of all the leetcode questions i have been solving.
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/priyanshi2106/Leetcode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/priyanshi2106/Leetcode/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
+| [0139-word-break](https://github.com/priyanshi2106/Leetcode/tree/main/0139-word-break/) | Medium |
 | [0141-linked-list-cycle](https://github.com/priyanshi2106/Leetcode/tree/main/0141-linked-list-cycle/) | Easy |
 | [0146-lru-cache](https://github.com/priyanshi2106/Leetcode/tree/main/0146-lru-cache/) | Medium |
 | [0268-missing-number](https://github.com/priyanshi2106/Leetcode/tree/main/0268-missing-number/) | Easy |
@@ -104,6 +106,7 @@ This contains solution of all the leetcode questions i have been solving.
 | [0003-longest-substring-without-repeating-characters](https://github.com/priyanshi2106/Leetcode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0005-longest-palindromic-substring](https://github.com/priyanshi2106/Leetcode/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0091-decode-ways](https://github.com/priyanshi2106/Leetcode/tree/main/0091-decode-ways/) | Medium |
+| [0139-word-break](https://github.com/priyanshi2106/Leetcode/tree/main/0139-word-break/) | Medium |
 | [0424-longest-repeating-character-replacement](https://github.com/priyanshi2106/Leetcode/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0443-string-compression](https://github.com/priyanshi2106/Leetcode/tree/main/0443-string-compression/) | Medium |
 | [0647-palindromic-substrings](https://github.com/priyanshi2106/Leetcode/tree/main/0647-palindromic-substrings/) | Medium |
@@ -118,6 +121,7 @@ This contains solution of all the leetcode questions i have been solving.
 | [0070-climbing-stairs](https://github.com/priyanshi2106/Leetcode/tree/main/0070-climbing-stairs/) | Easy |
 | [0091-decode-ways](https://github.com/priyanshi2106/Leetcode/tree/main/0091-decode-ways/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/priyanshi2106/Leetcode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
+| [0139-word-break](https://github.com/priyanshi2106/Leetcode/tree/main/0139-word-break/) | Medium |
 | [0152-maximum-product-subarray](https://github.com/priyanshi2106/Leetcode/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0198-house-robber](https://github.com/priyanshi2106/Leetcode/tree/main/0198-house-robber/) | Medium |
 | [0213-house-robber-ii](https://github.com/priyanshi2106/Leetcode/tree/main/0213-house-robber-ii/) | Medium |
@@ -256,4 +260,9 @@ This contains solution of all the leetcode questions i have been solving.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0070-climbing-stairs](https://github.com/priyanshi2106/Leetcode/tree/main/0070-climbing-stairs/) | Easy |
+| [0139-word-break](https://github.com/priyanshi2106/Leetcode/tree/main/0139-word-break/) | Medium |
+## Trie
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0139-word-break](https://github.com/priyanshi2106/Leetcode/tree/main/0139-word-break/) | Medium |
 <!---LeetCode Topics End-->
