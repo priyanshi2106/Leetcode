@@ -14,28 +14,24 @@
  * }
  */
 class Solution {
-    int index = 0;
+     int index = 0;
     public TreeNode buildTree(int[] preorder, int[] inorder) {
-        //need hashmap to avoind traversing through inoder to get th root every recursive call
-        HashMap<Integer, Integer>hm = new HashMap<>();
+        HashMap<Integer, Integer> inorderMap = new HashMap<>();
         for(int i = 0; i < inorder.length; i++){
-            hm.put(inorder[i], i);
+            inorderMap.put(inorder[i],i);
         }
-        return helper(preorder, 0, inorder.length-1,hm);
+        return helper(preorder, inorderMap, 0, inorder.length-1);
     }
-    public TreeNode helper(int[] preorder, int start, int end, HashMap<Integer, Integer> map){
-        //no child or no nodes left
+    public TreeNode helper(int[] preorder, HashMap<Integer, Integer> inorderMap, int start, int end){
         if(start > end){
             return null;
         }
+        //get the root
         int root = preorder[index++];
         TreeNode rootNode = new TreeNode(root);
-
-        int inOrderIndex = map.get(root);
-
-        rootNode.left = helper(preorder, start, inOrderIndex-1, map);
-        rootNode.right = helper(preorder, inOrderIndex+1, end, map);
-
+        int rootIndex = inorderMap.get(root);
+        rootNode.left = helper(preorder, inorderMap, start, rootIndex-1);
+        rootNode.right = helper(preorder, inorderMap, rootIndex+1, end);
         return rootNode;
     }
 }
