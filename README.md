@@ -90,6 +90,7 @@ This contains solution of all the leetcode questions i have been solving.
 | [0011-container-with-most-water](https://github.com/priyanshi2106/Leetcode/tree/main/0011-container-with-most-water/) | Medium |
 | [0253-meeting-rooms-ii](https://github.com/priyanshi2106/Leetcode/tree/main/0253-meeting-rooms-ii/) | Medium |
 | [0767-reorganize-string](https://github.com/priyanshi2106/Leetcode/tree/main/0767-reorganize-string/) | Medium |
+| [2571-minimum-operations-to-reduce-an-integer-to-0](https://github.com/priyanshi2106/Leetcode/tree/main/2571-minimum-operations-to-reduce-an-integer-to-0/) | Medium |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -128,6 +129,7 @@ This contains solution of all the leetcode questions i have been solving.
 | [0647-palindromic-substrings](https://github.com/priyanshi2106/Leetcode/tree/main/0647-palindromic-substrings/) | Medium |
 | [0740-delete-and-earn](https://github.com/priyanshi2106/Leetcode/tree/main/0740-delete-and-earn/) | Medium |
 | [2380-time-needed-to-rearrange-a-binary-string](https://github.com/priyanshi2106/Leetcode/tree/main/2380-time-needed-to-rearrange-a-binary-string/) | Medium |
+| [2571-minimum-operations-to-reduce-an-integer-to-0](https://github.com/priyanshi2106/Leetcode/tree/main/2571-minimum-operations-to-reduce-an-integer-to-0/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -245,6 +247,7 @@ This contains solution of all the leetcode questions i have been solving.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0268-missing-number](https://github.com/priyanshi2106/Leetcode/tree/main/0268-missing-number/) | Easy |
+| [2571-minimum-operations-to-reduce-an-integer-to-0](https://github.com/priyanshi2106/Leetcode/tree/main/2571-minimum-operations-to-reduce-an-integer-to-0/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
