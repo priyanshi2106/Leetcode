@@ -1,6 +1,8 @@
 class Solution {
     public int minRemoval(int[] nums, int k) {
         //condition to check: max <= k * min
+        //T:O(nlogn)
+        //S:(logn) stack for sorting
         Arrays.sort(nums);
         int i = 0;
         int j = 0;
