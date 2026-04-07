@@ -111,6 +111,7 @@ This contains solution of all the leetcode questions i have been solving.
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/priyanshi2106/Leetcode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0005-longest-palindromic-substring](https://github.com/priyanshi2106/Leetcode/tree/main/0005-longest-palindromic-substring/) | Medium |
+| [0020-valid-parentheses](https://github.com/priyanshi2106/Leetcode/tree/main/0020-valid-parentheses/) | Easy |
 | [0091-decode-ways](https://github.com/priyanshi2106/Leetcode/tree/main/0091-decode-ways/) | Medium |
 | [0139-word-break](https://github.com/priyanshi2106/Leetcode/tree/main/0139-word-break/) | Medium |
 | [0424-longest-repeating-character-replacement](https://github.com/priyanshi2106/Leetcode/tree/main/0424-longest-repeating-character-replacement/) | Medium |
@@ -248,6 +249,7 @@ This contains solution of all the leetcode questions i have been solving.
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0020-valid-parentheses](https://github.com/priyanshi2106/Leetcode/tree/main/0020-valid-parentheses/) | Easy |
 | [0094-binary-tree-inorder-traversal](https://github.com/priyanshi2106/Leetcode/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0143-reorder-list](https://github.com/priyanshi2106/Leetcode/tree/main/0143-reorder-list/) | Medium |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/priyanshi2106/Leetcode/tree/main/1209-remove-all-adjacent-duplicates-in-string-ii/) | Medium |
