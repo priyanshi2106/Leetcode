@@ -43,6 +43,7 @@ This contains solution of all the leetcode questions i have been solving.
 | [0146-lru-cache](https://github.com/priyanshi2106/Leetcode/tree/main/0146-lru-cache/) | Medium |
 | [0268-missing-number](https://github.com/priyanshi2106/Leetcode/tree/main/0268-missing-number/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/priyanshi2106/Leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [0355-design-twitter](https://github.com/priyanshi2106/Leetcode/tree/main/0355-design-twitter/) | Medium |
 | [0424-longest-repeating-character-replacement](https://github.com/priyanshi2106/Leetcode/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0740-delete-and-earn](https://github.com/priyanshi2106/Leetcode/tree/main/0740-delete-and-earn/) | Medium |
 | [0767-reorganize-string](https://github.com/priyanshi2106/Leetcode/tree/main/0767-reorganize-string/) | Medium |
@@ -56,10 +57,12 @@ This contains solution of all the leetcode questions i have been solving.
 | [0143-reorder-list](https://github.com/priyanshi2106/Leetcode/tree/main/0143-reorder-list/) | Medium |
 | [0146-lru-cache](https://github.com/priyanshi2106/Leetcode/tree/main/0146-lru-cache/) | Medium |
 | [0206-reverse-linked-list](https://github.com/priyanshi2106/Leetcode/tree/main/0206-reverse-linked-list/) | Easy |
+| [0355-design-twitter](https://github.com/priyanshi2106/Leetcode/tree/main/0355-design-twitter/) | Medium |
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0146-lru-cache](https://github.com/priyanshi2106/Leetcode/tree/main/0146-lru-cache/) | Medium |
+| [0355-design-twitter](https://github.com/priyanshi2106/Leetcode/tree/main/0355-design-twitter/) | Medium |
 ## Doubly-Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -97,6 +100,7 @@ This contains solution of all the leetcode questions i have been solving.
 | ------- | ------- |
 | [0253-meeting-rooms-ii](https://github.com/priyanshi2106/Leetcode/tree/main/0253-meeting-rooms-ii/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/priyanshi2106/Leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [0355-design-twitter](https://github.com/priyanshi2106/Leetcode/tree/main/0355-design-twitter/) | Medium |
 | [0767-reorganize-string](https://github.com/priyanshi2106/Leetcode/tree/main/0767-reorganize-string/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
