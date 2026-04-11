@@ -10,6 +10,7 @@ This contains solution of all the leetcode questions i have been solving.
 | [0039-combination-sum](https://github.com/priyanshi2106/Leetcode/tree/main/0039-combination-sum/) | Medium |
 | [0040-combination-sum-ii](https://github.com/priyanshi2106/Leetcode/tree/main/0040-combination-sum-ii/) | Medium |
 | [0057-insert-interval](https://github.com/priyanshi2106/Leetcode/tree/main/0057-insert-interval/) | Medium |
+| [0079-word-search](https://github.com/priyanshi2106/Leetcode/tree/main/0079-word-search/) | Medium |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/priyanshi2106/Leetcode/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/priyanshi2106/Leetcode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0139-word-break](https://github.com/priyanshi2106/Leetcode/tree/main/0139-word-break/) | Medium |
@@ -113,6 +114,7 @@ This contains solution of all the leetcode questions i have been solving.
 | [0003-longest-substring-without-repeating-characters](https://github.com/priyanshi2106/Leetcode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0005-longest-palindromic-substring](https://github.com/priyanshi2106/Leetcode/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0020-valid-parentheses](https://github.com/priyanshi2106/Leetcode/tree/main/0020-valid-parentheses/) | Easy |
+| [0079-word-search](https://github.com/priyanshi2106/Leetcode/tree/main/0079-word-search/) | Medium |
 | [0091-decode-ways](https://github.com/priyanshi2106/Leetcode/tree/main/0091-decode-ways/) | Medium |
 | [0139-word-break](https://github.com/priyanshi2106/Leetcode/tree/main/0139-word-break/) | Medium |
 | [0424-longest-repeating-character-replacement](https://github.com/priyanshi2106/Leetcode/tree/main/0424-longest-repeating-character-replacement/) | Medium |
@@ -151,6 +153,7 @@ This contains solution of all the leetcode questions i have been solving.
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0079-word-search](https://github.com/priyanshi2106/Leetcode/tree/main/0079-word-search/) | Medium |
 | [0094-binary-tree-inorder-traversal](https://github.com/priyanshi2106/Leetcode/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0098-validate-binary-search-tree](https://github.com/priyanshi2106/Leetcode/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0100-same-tree](https://github.com/priyanshi2106/Leetcode/tree/main/0100-same-tree/) | Easy |
@@ -210,10 +213,12 @@ This contains solution of all the leetcode questions i have been solving.
 | ------- | ------- |
 | [0039-combination-sum](https://github.com/priyanshi2106/Leetcode/tree/main/0039-combination-sum/) | Medium |
 | [0040-combination-sum-ii](https://github.com/priyanshi2106/Leetcode/tree/main/0040-combination-sum-ii/) | Medium |
+| [0079-word-search](https://github.com/priyanshi2106/Leetcode/tree/main/0079-word-search/) | Medium |
 | [1219-path-with-maximum-gold](https://github.com/priyanshi2106/Leetcode/tree/main/1219-path-with-maximum-gold/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0079-word-search](https://github.com/priyanshi2106/Leetcode/tree/main/0079-word-search/) | Medium |
 | [0200-number-of-islands](https://github.com/priyanshi2106/Leetcode/tree/main/0200-number-of-islands/) | Medium |
 | [0490-the-maze](https://github.com/priyanshi2106/Leetcode/tree/main/0490-the-maze/) | Medium |
 | [0994-rotting-oranges](https://github.com/priyanshi2106/Leetcode/tree/main/0994-rotting-oranges/) | Medium |
