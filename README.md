@@ -21,6 +21,7 @@ This contains solution of all the leetcode questions i have been solving.
 | [0253-meeting-rooms-ii](https://github.com/priyanshi2106/Leetcode/tree/main/0253-meeting-rooms-ii/) | Medium |
 | [0268-missing-number](https://github.com/priyanshi2106/Leetcode/tree/main/0268-missing-number/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/priyanshi2106/Leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [0490-the-maze](https://github.com/priyanshi2106/Leetcode/tree/main/0490-the-maze/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/priyanshi2106/Leetcode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0704-binary-search](https://github.com/priyanshi2106/Leetcode/tree/main/0704-binary-search/) | Easy |
 | [0740-delete-and-earn](https://github.com/priyanshi2106/Leetcode/tree/main/0740-delete-and-earn/) | Medium |
@@ -158,6 +159,7 @@ This contains solution of all the leetcode questions i have been solving.
 | [0207-course-schedule](https://github.com/priyanshi2106/Leetcode/tree/main/0207-course-schedule/) | Medium |
 | [0226-invert-binary-tree](https://github.com/priyanshi2106/Leetcode/tree/main/0226-invert-binary-tree/) | Easy |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/priyanshi2106/Leetcode/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
+| [0490-the-maze](https://github.com/priyanshi2106/Leetcode/tree/main/0490-the-maze/) | Medium |
 | [0572-subtree-of-another-tree](https://github.com/priyanshi2106/Leetcode/tree/main/0572-subtree-of-another-tree/) | Easy |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/priyanshi2106/Leetcode/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
 ## Breadth-First Search
@@ -168,6 +170,7 @@ This contains solution of all the leetcode questions i have been solving.
 | [0200-number-of-islands](https://github.com/priyanshi2106/Leetcode/tree/main/0200-number-of-islands/) | Medium |
 | [0207-course-schedule](https://github.com/priyanshi2106/Leetcode/tree/main/0207-course-schedule/) | Medium |
 | [0226-invert-binary-tree](https://github.com/priyanshi2106/Leetcode/tree/main/0226-invert-binary-tree/) | Easy |
+| [0490-the-maze](https://github.com/priyanshi2106/Leetcode/tree/main/0490-the-maze/) | Medium |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/priyanshi2106/Leetcode/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
 | [0994-rotting-oranges](https://github.com/priyanshi2106/Leetcode/tree/main/0994-rotting-oranges/) | Medium |
 ## Graph Theory
@@ -212,6 +215,7 @@ This contains solution of all the leetcode questions i have been solving.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0200-number-of-islands](https://github.com/priyanshi2106/Leetcode/tree/main/0200-number-of-islands/) | Medium |
+| [0490-the-maze](https://github.com/priyanshi2106/Leetcode/tree/main/0490-the-maze/) | Medium |
 | [0994-rotting-oranges](https://github.com/priyanshi2106/Leetcode/tree/main/0994-rotting-oranges/) | Medium |
 | [1219-path-with-maximum-gold](https://github.com/priyanshi2106/Leetcode/tree/main/1219-path-with-maximum-gold/) | Medium |
 ## Tree
