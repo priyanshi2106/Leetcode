@@ -16,6 +16,7 @@ This contains solution of all the leetcode questions i have been solving.
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/priyanshi2106/Leetcode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0139-word-break](https://github.com/priyanshi2106/Leetcode/tree/main/0139-word-break/) | Medium |
 | [0152-maximum-product-subarray](https://github.com/priyanshi2106/Leetcode/tree/main/0152-maximum-product-subarray/) | Medium |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/priyanshi2106/Leetcode/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0198-house-robber](https://github.com/priyanshi2106/Leetcode/tree/main/0198-house-robber/) | Medium |
 | [0200-number-of-islands](https://github.com/priyanshi2106/Leetcode/tree/main/0200-number-of-islands/) | Medium |
 | [0213-house-robber-ii](https://github.com/priyanshi2106/Leetcode/tree/main/0213-house-robber-ii/) | Medium |
@@ -33,6 +34,7 @@ This contains solution of all the leetcode questions i have been solving.
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/priyanshi2106/Leetcode/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0268-missing-number](https://github.com/priyanshi2106/Leetcode/tree/main/0268-missing-number/) | Easy |
 | [0704-binary-search](https://github.com/priyanshi2106/Leetcode/tree/main/0704-binary-search/) | Easy |
 | [3634-minimum-removals-to-balance-array](https://github.com/priyanshi2106/Leetcode/tree/main/3634-minimum-removals-to-balance-array/) | Medium |
@@ -89,6 +91,7 @@ This contains solution of all the leetcode questions i have been solving.
 | [0019-remove-nth-node-from-end-of-list](https://github.com/priyanshi2106/Leetcode/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0141-linked-list-cycle](https://github.com/priyanshi2106/Leetcode/tree/main/0141-linked-list-cycle/) | Easy |
 | [0143-reorder-list](https://github.com/priyanshi2106/Leetcode/tree/main/0143-reorder-list/) | Medium |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/priyanshi2106/Leetcode/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0253-meeting-rooms-ii](https://github.com/priyanshi2106/Leetcode/tree/main/0253-meeting-rooms-ii/) | Medium |
 | [0443-string-compression](https://github.com/priyanshi2106/Leetcode/tree/main/0443-string-compression/) | Medium |
 | [0647-palindromic-substrings](https://github.com/priyanshi2106/Leetcode/tree/main/0647-palindromic-substrings/) | Medium |
