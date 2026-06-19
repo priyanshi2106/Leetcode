@@ -8,6 +8,7 @@ This contains solution of all the leetcode questions i have been solving.
 | ------- | ------- |
 | [0001-two-sum](https://github.com/priyanshi2106/Leetcode/tree/main/0001-two-sum/) | Easy |
 | [0011-container-with-most-water](https://github.com/priyanshi2106/Leetcode/tree/main/0011-container-with-most-water/) | Medium |
+| [0015-3sum](https://github.com/priyanshi2106/Leetcode/tree/main/0015-3sum/) | Medium |
 | [0039-combination-sum](https://github.com/priyanshi2106/Leetcode/tree/main/0039-combination-sum/) | Medium |
 | [0040-combination-sum-ii](https://github.com/priyanshi2106/Leetcode/tree/main/0040-combination-sum-ii/) | Medium |
 | [0057-insert-interval](https://github.com/priyanshi2106/Leetcode/tree/main/0057-insert-interval/) | Medium |
@@ -76,6 +77,7 @@ This contains solution of all the leetcode questions i have been solving.
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0015-3sum](https://github.com/priyanshi2106/Leetcode/tree/main/0015-3sum/) | Medium |
 | [0252-meeting-rooms](https://github.com/priyanshi2106/Leetcode/tree/main/0252-meeting-rooms/) | Easy |
 | [0253-meeting-rooms-ii](https://github.com/priyanshi2106/Leetcode/tree/main/0253-meeting-rooms-ii/) | Medium |
 | [0268-missing-number](https://github.com/priyanshi2106/Leetcode/tree/main/0268-missing-number/) | Easy |
@@ -88,6 +90,7 @@ This contains solution of all the leetcode questions i have been solving.
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/priyanshi2106/Leetcode/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0011-container-with-most-water](https://github.com/priyanshi2106/Leetcode/tree/main/0011-container-with-most-water/) | Medium |
+| [0015-3sum](https://github.com/priyanshi2106/Leetcode/tree/main/0015-3sum/) | Medium |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/priyanshi2106/Leetcode/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0141-linked-list-cycle](https://github.com/priyanshi2106/Leetcode/tree/main/0141-linked-list-cycle/) | Easy |
 | [0143-reorder-list](https://github.com/priyanshi2106/Leetcode/tree/main/0143-reorder-list/) | Medium |
